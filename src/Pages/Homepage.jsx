@@ -13,7 +13,7 @@ function HomePage() {
           <div className="nav-left">
             <a href="#" className="active">Home</a>
             <a href="#">Music</a>
-            <a href="#">Contact</a>
+            <a href="mailto:contact999MB@gmail.com">Email: contact999MB@gmail.com</a>
           </div>
           <div className="nav-right">
             <a href="#"><FaFacebookF /></a>
@@ -24,10 +24,10 @@ function HomePage() {
 
         <div className="hero">
           <>999MB</>
-          <p>Local Band in Bend Oregon</p>
+          <p>Local jazz cover Band in Bend Oregon</p>
         </div>
         <div className="contact-button">
-            <a className="contact" href="mailto:contact999mb@gmail.com"><FaMessage/>{" "}CONTACT US</a>
+            <a className="contact" href="mailto:contact999mb@gmail.com">{" "}CONTACT US</a>
         </div>
       </div>
     </div>
