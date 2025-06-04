@@ -97,10 +97,6 @@ code {
   padding: 10px;
   border: 2.5px solid rgb(246, 246, 5);
   position: absolute;
-  align-content: center;
-  align-self: center;
-  align-items: center;
-  text-align: center;
   left: 50%;
   transform: translateX(-50%);
   bottom: 150px;
